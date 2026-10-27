@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://sociedadeessa.github.io/Sociedade-ESSA/sitemap.xml
